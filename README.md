@@ -1,2 +1,5 @@
 # Hello-World
-My First Program in GitHub
+
+Hi All,
+
+Tejaswi here, I am new to GitHub and this is my first Program. Excited to work on more!
